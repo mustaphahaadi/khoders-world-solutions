@@ -30,7 +30,7 @@ This repository serves as an educational resource for Python programming, offeri
 ## 🚀 Getting Started
 
 1. Clone the repository
-git clone https://github.com/yourusername/starting-out-with-python.git
+git clone https://github.com/mustaphahaadi/starting-out-with-python.git
 
 2. Navigate to the project directory
 `cd starting-out-with-python`
