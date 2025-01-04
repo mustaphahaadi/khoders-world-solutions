@@ -33,10 +33,10 @@ This repository serves as an educational resource for Python programming, offeri
 git clone https://github.com/yourusername/starting-out-with-python.git
 
 2. Navigate to the project directory
-cd starting-out-with-python
+`cd starting-out-with-python`
 
 3. Run any example
-python example.py
+`python example.py`
 
 ## 🎓 Learning Outcomes
 After completing these examples, you will be able to:
